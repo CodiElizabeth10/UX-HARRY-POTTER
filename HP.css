@@ -1,0 +1,20 @@
+body {
+    background: rgb(29, 29, 25);
+    font: 18px Arial, sans-serif;
+}
+h1 {
+    color: rgb(226, 214, 43);
+}
+h2 {
+    color:rgb(157, 122, 255);
+}
+
+p {
+    color:antiquewhite;
+}
+
+.container {
+    color:antiquewhite;
+    background: rgb(29, 29, 25);
+}
+
